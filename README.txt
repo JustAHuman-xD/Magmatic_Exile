@@ -5,3 +5,5 @@ This has no real use if you don't use a datapack or other means of deepening you
 Supposed to be used with my datapack that expands the world from 640 to -512: -COMING SOON-
 
 This is a direct forge port of https://github.com/Andrew6rant/MC-237017-Fix
+
+https://modrinth.com/mod/magmatic-exile
