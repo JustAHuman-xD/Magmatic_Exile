@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: magmaticexile
+Specification-Vendor: magmaticexilesareus
+Specification-Version: 1
+Implementation-Title: Magmatic_Exile
+Implementation-Version: 0.0.1-1.19.2
+Implementation-Vendor: emagmaticexilesareus
+Implementation-Timestamp: 2023-09-18T02:32:00+0200
+MixinConfigs: mixinconfig.json
+
