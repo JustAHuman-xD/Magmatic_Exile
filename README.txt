@@ -1,4 +1,4 @@
-*Requirements:*
+Requirements:
 Minecraft 1.19.2
 Forge Modloader 43.2.23 or higher
 
