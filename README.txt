@@ -1,6 +1,7 @@
 Requirements:
 Minecraft 1.19.2
 Forge Modloader 43.2.23 or higher
+Required Serverside, Client optional.
 
 This attempts to fix MC-237017, a bug that fills all caves below -54 with lava. With this mod, the lava level is tied to the bedrock level instead of being hardcoded, making it possible to generate caves hundreds of blocks deep.
 
